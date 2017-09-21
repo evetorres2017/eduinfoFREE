@@ -1,0 +1,24 @@
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\bin\Debug\eduinfoFREE.exe
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\bin\Debug\eduinfoFREE.pdb
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\bin\Debug\eduinfoFREE.xml
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\obj\x86\Debug\eduinfoFREE.Form1.resources
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\obj\x86\Debug\eduinfoFREE.Resources.resources
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\obj\x86\Debug\eduinfoFREE.vbproj.GenerateResource.Cache
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\obj\x86\Debug\eduinfoFREE.exe
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\obj\x86\Debug\eduinfoFREE.xml
+C:\Users\everth\AppData\Local\Temporary Projects\eduinfoFREE\obj\x86\Debug\eduinfoFREE.pdb
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.exe
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.xml
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.pdb
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\bin\Debug\eduinfoFREE.exe
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\bin\Debug\eduinfoFREE.pdb
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\bin\Debug\eduinfoFREE.xml
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.Form1.resources
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.Resources.resources
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.vbproj.GenerateResource.Cache
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.componentesPC.resources
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.componentesPC2.resources
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.dispositivosAlmacenamiento1.resources
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.dispositivosAlmacenamiento2.resources
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.componentesPC3.resources
+C:\Users\everth\documents\visual studio 2010\Projects\eduinfoFREE\eduinfoFREE\obj\x86\Debug\eduinfoFREE.acercade.resources
